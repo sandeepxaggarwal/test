@@ -44,6 +44,7 @@ public class Test1 {
 		//call login
 		System.out.println("filling the registration form ");
 		Assert.fail();
+		Assert.fail();
 	}
 	
 	@AfterMethod
